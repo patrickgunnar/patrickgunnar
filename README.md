@@ -1,6 +1,7 @@
 ## 👨‍💻 Craftsmanship in Code 🎨
-## 🧠
-
+<p align="center">
+  <b>🧠</b>
+</p>
 Welcome to my corner of the digital universe! I'm Patrick Gunnar, a passionate Full-Stack Web Artisan. My journey in crafting exquisite digital experiences is fueled by a palette of skills, including:
 
 🚀 **Next.js** and **React.js**: Shaping dynamic and performant front-end marvels.
