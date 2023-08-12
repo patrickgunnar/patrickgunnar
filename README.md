@@ -1,7 +1,7 @@
 ## 👨‍💻 Craftsmanship in Code 🎨
 
 <p align="center">
-  <strong style="font-size: 32px;">⭐️&nbsp;&nbsp;&nbsp;🧠&nbsp;&nbsp;&nbsp;⭐️</strong>
+  <strong>⭐️&nbsp;&nbsp;&nbsp;**🧠**&nbsp;&nbsp;&nbsp;⭐️</strong>
 </p>
 
 Welcome to my corner of the digital universe! I'm Patrick Gunnar, a passionate Full-Stack Web Artisan. My journey in crafting exquisite digital experiences is fueled by a palette of skills, including:
