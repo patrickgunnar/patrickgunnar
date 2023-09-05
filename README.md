@@ -17,5 +17,5 @@ My creations are more than code; they're immersive journeys. You can explore my 
 Join me in elevating the art of web development! 🌟
 
 <h2 align="center">
-  ![Patrick Gunnar's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickgunnar&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickgunnar&layout=donut-vertical)](https://github.com/patrickgunnar/github-readme-stats)
+  <em>![Patrick Gunnar's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickgunnar&show_icons=true&theme=transparent)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickgunnar&layout=donut-vertical)](https://github.com/patrickgunnar/github-readme-stats)</em>
 </h2>
