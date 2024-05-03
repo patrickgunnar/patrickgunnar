@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate full-stack developer from BRASIL</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img styles={{ "background": "transparent" }} src="https://github-profile-trophy.vercel.app/?username=patrickgunnar" alt="patrickgunnar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patrickgunnar&theme=onedark" alt="patrickgunnar" /></a> </p>
 
 <h4 align="left">Social media:</h4>
 <p align="left">
