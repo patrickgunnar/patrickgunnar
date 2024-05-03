@@ -1,4 +1,5 @@
-## 👨‍💻 PATRICK GUNNAR 🎨
+##
+<h1 align="center">👨‍💻 PATRICK GUNNAR 🎨</h1>
 
 <h3 align="center">A passionate full-stack developer from BRASIL</h3>
 
