@@ -31,5 +31,5 @@ With a keen eye for detail and a passion for continuous learning, I remain at th
 I look forward to the opportunity to collaborate and drive forward the success of our projects.
 
 Best Regards,
-<h3 align="left">Patrick Gunnar</h3>
+<h3 align="center">Patrick Gunnar</h3>
 </em>
