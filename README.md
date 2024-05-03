@@ -16,7 +16,7 @@
 ***
 
 <h2 align="center">
-  <em>⭐️&nbsp;&nbsp;&nbsp;🧠&nbsp;&nbsp;&nbsp;⭐️</em>
+  <p>⭐️&nbsp;&nbsp;&nbsp;🧠&nbsp;&nbsp;&nbsp;⭐️</p>
 </h2>
 
 ***
