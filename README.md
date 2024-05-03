@@ -19,6 +19,8 @@
   <em>⭐️&nbsp;&nbsp;&nbsp;🧠&nbsp;&nbsp;&nbsp;⭐️</em>
 </h2>
 
+***
+
 Greetings,
 
 I am an adept full-stack developer with a proven track record of success across front-end and back-end domains. Armed with expertise in TypeScript, JavaScript, Rust, Python, Next.js, React.js, Redux.js, Express.js, tRPC, Node.js, Tailwind CSS, PostgreSQL, and MongoDB, I excel in crafting innovative solutions that push the boundaries of web development.
