@@ -19,7 +19,7 @@
   <p>⭐️&nbsp;&nbsp;&nbsp;🧠&nbsp;&nbsp;&nbsp;⭐️</p>
 </h2>
 
-Greetings,
+<h3 align="left">Greetings</h3>,
 
 I am an adept full-stack developer with a proven track record of success across front-end and back-end domains. Armed with expertise in TypeScript, JavaScript, Rust, Python, Next.js, React.js, Redux.js, Express.js, tRPC, Node.js, Tailwind CSS, PostgreSQL, and MongoDB, I excel in crafting innovative solutions that push the boundaries of web development.
 
@@ -30,4 +30,4 @@ With a keen eye for detail and a passion for continuous learning, I remain at th
 I look forward to the opportunity to collaborate and drive forward the success of our projects.
 
 Best Regards,
-Patrick Gunnar.
+<h3 align="left">Patrick Gunnar</h3>.
