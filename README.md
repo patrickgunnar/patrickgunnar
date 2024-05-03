@@ -33,3 +33,5 @@ I look forward to the opportunity to collaborate and drive forward the success o
 Best Regards,
 <h3 align="center">Patrick Gunnar</h3>
 </em>
+
+![Patrick Gunnar's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickgunnar&show_icons=true&theme=transparent)
