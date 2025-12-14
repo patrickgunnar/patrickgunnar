@@ -1,6 +1,4 @@
-##
 <h1 align="center">👨‍💻 PATRICK GUNNAR 🎨</h1>
-##
 
 <h2 align="center">
   <p>⭐️&nbsp;&nbsp;&nbsp;🧠&nbsp;&nbsp;&nbsp;⭐️</p>
